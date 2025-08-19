@@ -1,0 +1,44 @@
+<automation>
+    <step
+        id="1"
+        status="not_started"
+        personaList="str_replace_editor">
+        Create website directory structure and analyze CV content
+    </step>
+    <step
+        id="2"
+        status="not_started"
+        personaList="str_replace_editor">
+        Create main HTML structure with modern design using Tailwind CSS
+    </step>
+    <step
+        id="3"
+        status="not_started"
+        personaList="str_replace_editor">
+        Add sections for About, Education, Experience, Research Projects
+    </step>
+    <step
+        id="4"
+        status="not_started"
+        personaList="str_replace_editor">
+        Add Skills, Achievements, and Contact sections
+    </step>
+    <step
+        id="5"
+        status="not_started"
+        personaList="bash">
+        Serve the website locally for testing
+    </step>
+    <step
+        id="6"
+        status="not_started"
+        personaList="browser">
+        Test website functionality and responsiveness
+    </step>
+    <step
+        id="7"
+        status="not_started"
+        personaList="deploy">
+        Deploy the website and provide deployment URL
+    </step>
+</automation>
